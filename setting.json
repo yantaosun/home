@@ -1,0 +1,46 @@
+{
+    "title": "9527の主页",
+    "description": "一个默默无闻的主页",
+    "keywords": "9527,个人主页",
+    "author": "9527",
+    "logo_img": "./img/icon/logo.png",
+    "logo_text_1": "unanaos",
+    "logo_text_2": .com",
+    "github": "unanaos",
+    "qq": "1272762009",
+    "email": "15910344486@163.com",
+    "bilibili": "",
+    "telegram": "bottom_user",
+    "link_1": [
+        "https://blog.unanaos.com/",
+        "fa-solid fa-blog",
+        "博客"
+    ],
+    "link_2": [
+        "https://drive.unanaos.com/",
+        "fa-solid fa-cloud",
+        "网盘"
+    ],
+    "link_3": [
+        "https://music.unanaos.com/",
+        "fa-solid fa-music",
+        "音乐"
+    ],
+    "link_4": [
+        "https://nav.unanaos.com/",
+        "fa-solid fa-compass",
+        "起始页"
+    ],
+    "link_5": [
+        "https://web.unanaos.com/",
+        "fa-solid fa-book-bookmark",
+        "网址集"
+    ],
+    "link_6": [
+        "https://lab.unanaos.com/",
+        "fa-solid fa-flask",
+        "实验室"
+    ],
+    "Copyright_text": "9527",
+    "beian": "蒙ICP备2022001573号"
+}
